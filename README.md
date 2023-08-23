@@ -1,9 +1,13 @@
-# Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
+```
+Name: Sanjay Ragavendar M K
+Register Number: 212222100045
+```
+# Experiment: 01 INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
  
 
-## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
-## Components required: STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
-## Theory 
+## AIM: To Interface a Digital output (LED) to ARM development board and write a blink code 
+## COMPONENTS REQUIRED: STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
+## THEORY 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 
 What is an ARM7 Processor?
@@ -175,9 +179,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 ### LED OFF
-![Output-1](https://github.com/Sanjay-2610/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/91368803/a1462da4-f9ef-4711-b661-a91ce2ad93d2)
+<img src="https://github.com/Sanjay-2610/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/91368803/a1462da4-f9ef-4711-b661-a91ce2ad93d2" width=475 height=475>
 ### LED ON
-![Output-2](https://github.com/Sanjay-2610/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/91368803/eb3fc82b-36bf-4649-8c75-8117867bee79)
+
+<img src="https://github.com/Sanjay-2610/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/91368803/eb3fc82b-36bf-4649-8c75-8117867bee79" width=475 height=475>
  
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed and the results are verified.
